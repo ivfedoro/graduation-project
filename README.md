@@ -34,3 +34,14 @@
 7. Подготовка плана проекта
 8. Упаковка презентации проекта изменений
 
+---
+
+**Ссылки на материалы (google drive):**
+
+[Презентация проекта](https://docs.google.com/presentation/d/1JMd-1VDbH37nRB-X_rRj6UPE4_WEUdEI/edit?usp=sharing&ouid=101571551285799925111&rtpof=true&sd=true)
+
+[BPMN диаграмма процесса AS IS](https://drive.google.com/file/d/1MOUAeO1c0pH1YEEeECnc8jebI_uiAn1g/view?usp=sharing)
+
+[BPMN диаграмма процесса TO BE](https://drive.google.com/file/d/1582eTe367eWODs4LDGJWIqUXa8EYfMSs/view?usp=sharing)
+
+[Диаграмма Ганта](https://docs.google.com/spreadsheets/d/1LJ00ZRx46MX4WY2FNn4xh1YAKJ7ztaWeKpTWajMwMYQ/edit?usp=sharing)
