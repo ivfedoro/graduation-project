@@ -2,6 +2,7 @@
 
 **Кейс: “Оптимизация поставок в сети супермаркетов”**
 
+[Посмотреть pdf презентацию](https://docs.google.com/presentation/d/1JMd-1VDbH37nRB-X_rRj6UPE4_WEUdEI/edit?usp=sharing&ouid=101571551285799925111&rtpof=true&sd=true)
 ---
 
 **Описание кейса:**
